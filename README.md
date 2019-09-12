@@ -1,4 +1,4 @@
-#Applipedia Parser
+# Applipedia Parser
 Palo Alto Networks provides an free overview about theire application classification at https://applipedia.paloaltonetworks.com.
 This can be used by Palo Alto Customers to check what an specific app is categorised by Palo Alto Firewalls.
 
@@ -16,7 +16,7 @@ Please feel free to contribute improvements, e.g.
 - only request missing / changed app details
 - code quality ;)
 
-#Use
+# Useage
 The App generates two kind of CSV, one big overview List, and one Detail List with all the app details.
 You have to modify main.rb (uncomment methods)
 #Gernate the App List (applipedia_list.csv)
@@ -25,6 +25,6 @@ You have to modify main.rb (uncomment methods)
 #I recommend to test the functionality with a "short list" - applipedia_short_list
 #get_details
 
-#Other todos
+# Other todos
 - Thor CLI
 - method to parse only the delta - identify new / changed apps utilizing https://github.com/PaloAltoNetworks/SplunkforPaloAltoNetworks/blob/develop/bin/retrieveNewApps.py which points to: https://ww2.paloaltonetworks.com/iphone/NewApps.aspx (seems to be currently unavailable!)
