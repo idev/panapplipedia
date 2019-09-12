@@ -1,0 +1,10 @@
+id,app,ottawagroup,category,subcategory,risklevel,technology
+120,100bao,0,general-internet,file-sharing,5,peer-to-peer
+1788,1c-enterprise,0,business-systems,erp-crm,1,client-server
+1402,1und1-mail,0,collaboration,email,3,browser-based
+2514,24sevenoffice,0,business-systems,erp-crm,2,browser-based
+165,2ch,1, , ,, 
+781,2ch-base,2,collaboration,social-networking,2,browser-based
+783,2ch-posting,2,collaboration,web-posting,2,browser-based
+685,360-safeguard-update,0,business-systems,software-update,2,client-server
+350,3pc,0,networking,ip-protocol,1,network-protocol
